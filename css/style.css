@@ -5,7 +5,7 @@
     overflow: none;
 }
 
-.grass {
+ .grass {
     background-color: seagreen;
     height: 30vh;
 }
@@ -91,91 +91,5 @@
     100% {
         top: -30px;
     }
-}
-/* #pop-up  {
-    background-color: black;
-    height: 70vh;
-    color: black;
-    text-align: center;
-    position: relative;
-   
-}
-#pop-up .container {
-    position: absolute;
-    top: 50px;
-    padding: 50px;
-}
-.pop-up #pop1 {
-    background-color: whitesmoke;
-    position: relative;
-    border-radius: 10px;
-}
-.pop-up h1 {
-    color: tomato;
-    font-weight: bold;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
-.pop-up p {
-    font-weight: bold;
-}
-input {
-    padding: 5px;
-    height: 40px;
-    border-radius: 10px;
-    outline: none;
-    border: tomato 2px solid;
-    width: 40%;
-    background-color: blanchedalmond;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
-button {
-    margin-left: -23px;
-    height: 40px;
-    border-radius: 10px;
-    outline: none;
-    border: 2px solid tomato;
-    width: 20%;
-    background-color: blanchedalmond;
-    margin-top: 10px;
-    margin-bottom: 15px;
-
-}
-.cross {
-    position: absolute;
-    left: 10px;
-    top: 5%;
-    color: white;
-    background-color: black;
-    text-align: center;
-    width: 22px;
-    height: 22px;
-    border-radius: 5px;
-    font-weight: bold;
-}
-#pop-up {
-    top: -400px;
-}
-@keyframes drop {
-    0%{}
-    70% {transform: translateY(600px);}
-    100% {transform: translateX(500px);}
-} */
-.pop-up {
-    background-color: black;
-}
-#pop-up {
-    width: 500px;
-    margin: 0 auto;
-    position: relative;
-}
- #pop-up .container {
-    padding: 30px;
-    position: absolute;
-    top: 50px;
-}
-#pop-up .wrap {
-    background-color: red;
-}
+} 
 
